@@ -1,0 +1,9 @@
+name: NewBlocks
+version: 1.0.0
+api: 4.0.0
+main: TheNote\NewBlocks\Main
+author: TheNote
+permissions:
+  core.command.weather:
+    description: "Allows you to access /toggledownfall and /weather"
+    default: op
